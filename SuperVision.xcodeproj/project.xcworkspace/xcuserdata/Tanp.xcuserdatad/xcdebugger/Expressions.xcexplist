@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController adjustCurrentOrientation]:ViewController.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.scrollView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController saveButtonTapped:]:ViewController.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.saveButton">
+            </PersistentString>
+            <PersistentString
+               value = "self.photoButton">
+            </PersistentString>
+            <PersistentString
+               value = "self.saveButton.state">
+            </PersistentString>
+            <PersistentString
+               value = "self.photoData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RootViewController deleteButtonTapped:]:RootViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController savePhoto:]:ViewController.mm">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController initialControls]:ViewController.mm">
+      </ContextState>
+      <ContextState
+         contextName = "-[ModelController storeData]:ModelController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.pageData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController adjustExposurePoint]:ViewController.mm">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController retrieveData]:ViewController.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.photoData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ModelController retrieveData]:ModelController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController showHelpViewController]:ViewController.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.helpViewController.view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController photoButtonTapped:]:ViewController.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.photoData">
+            </PersistentString>
+            <PersistentString
+               value = "self.photoButton.state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[AppDelegate beforeIpad2]:AppDelegate.mm">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController scrollViewDidZoom:]:ViewController.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "scrollView.zoomScale">
+            </PersistentString>
+            <PersistentString
+               value = "self.currentZoomRate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RootViewController pageViewController:didFinishAnimating:previousViewControllers:transitionCompleted:]:RootViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.pageViewController.viewControllers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController setupControlsPosition]:ViewController.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.imageModeButton.frame">
+            </PersistentString>
+            <PersistentString
+               value = "self.photoButton">
+            </PersistentString>
+            <PersistentString
+               value = "self.interfaceOrientation">
+            </PersistentString>
+            <PersistentString
+               value = "self.imageModeButton">
+            </PersistentString>
+            <PersistentString
+               value = "self.saveButton">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController showEmptyViewController]:ViewController.mm">
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate applicationWillResignActive:]:AppDelegate.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.viewController.childViewControllers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyScrollView initWithFrame:]:MyScrollView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "ScreenWidth">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController captureOutput:didOutputSampleBuffer:fromConnection:]:ViewController.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+            <PersistentString
+               value = "self.imageNo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ModelController getLastIndex]:ModelController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.pageData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MyScrollView changeImageViewFrame:]:MyScrollView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "frame.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MyScrollView scrollViewDidZoom:]:MyScrollView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "scale">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SVHelpScrollView initialImageView]:SVHelpScrollView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.height">
+            </PersistentString>
+            <PersistentString
+               value = "self.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController lockedUserInterface]:ViewController.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.saveButton">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController storeData]:ViewController.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.photoData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

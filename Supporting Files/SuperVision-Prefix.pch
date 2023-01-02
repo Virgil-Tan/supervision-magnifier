@@ -1,0 +1,20 @@
+//
+// Prefix header for all source files of the 'EyeSee' target in the 'EyeSee' project
+//
+
+#import <Availability.h>
+
+#ifdef __cplusplus
+#import "opencv2.framework/Headers/opencv.hpp"
+#endif
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <AVFoundation/AVFoundation.h>
+//    #import "SuperVision-Swift.h"
+#endif
